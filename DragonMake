@@ -1,0 +1,13 @@
+---
+name: NotesFind
+icmd: killall -9 MobileNotes
+
+all:
+    archs:
+        - arm64
+        - arm64e
+
+NotesFind:
+    type: tweak
+    logos_files:
+        - Tweak.x

@@ -1,0 +1,9 @@
+Package: com.yulkytulky.notesfind
+Name: NotesFind
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Easily access Notes's find feature!
+Maintainer: YulkyTulky
+Author: YulkyTulky
+Section: Tweaks
